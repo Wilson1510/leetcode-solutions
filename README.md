@@ -21,23 +21,6 @@ All solutions are organized into folders based on their difficulty level for eas
 ### Folder Structure
 The problems are categorized into `Easy`, `Medium`, and `Hard` directories as shown below:
 
-leetcode-solutions/
-│
-├── README.md # General info about the repo
-│
-├── easy/ # Easy problems
-│ ├── 1-twoSum.py
-│ └── ...
-│
-├── medium/ # Medium problems
-│ ├── 2-addTwoNumbers.py
-│ ├── 3-longestSubstring.py
-│ └── ...
-│
-├── hard/ # Hard problems
-  ├── 4-regularExpression.py
-  └── ...
-
 ### File Naming Convention
 Each solution file follows a consistent naming format to make it easily identifiable:
 `ProblemNumber-ProblemTitle.py`
