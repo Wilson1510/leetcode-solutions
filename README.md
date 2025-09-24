@@ -19,7 +19,7 @@ I use this repository as a portfolio to showcase my problem-solving skills. Feel
 All solutions are organized into folders based on their difficulty level for easy navigation.
 
 ### Folder Structure
-The problems are categorized into `Easy`, `Medium`, and `Hard` directories as shown below:
+The problems are categorized into `Easy`, `Medium`, and `Hard`.
 
 ### File Naming Convention
 Each solution file follows a consistent naming format to make it easily identifiable:
