@@ -3,6 +3,7 @@ Complexity:
 - Time  : O()
 - Space : O()
 """
+from typing import List
 
 
 class Solution:
